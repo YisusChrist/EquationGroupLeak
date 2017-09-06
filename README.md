@@ -1,6 +1,6 @@
 # TheShadowBrokersLeak
 
-Include Equation Group Leak And 2017-9 Leak
+Include *Equation Group Leak* And *2017-9 Leak*
 
 ## Equation Group Leak
 
